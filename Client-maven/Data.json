@@ -1,0 +1,56 @@
+[
+  {
+    "id": 23,
+    "name": "Leon",
+    "coordinates": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "creationDate": "2023-05-05T10:41:14",
+    "realHero": false,
+    "hasToothpick": true,
+    "impactSpeed": 35855,
+    "soundtrackName": "Zvezdnoe Leto",
+    "minutesOfWaiting": 3.24,
+    "mood": "SADNESS",
+    "car": {
+      "name": null
+    }
+  },
+  {
+    "id": 24,
+    "name": "Bob",
+    "coordinates": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "creationDate": "2023-05-05T10:41:14",
+    "realHero": false,
+    "hasToothpick": true,
+    "impactSpeed": 225,
+    "soundtrackName": "Counting stars",
+    "minutesOfWaiting": null,
+    "mood": "SADNESS",
+    "car": {
+      "name": null
+    }
+  },
+  {
+    "id": 25,
+    "name": "asd",
+    "coordinates": {
+      "x": 0.0,
+      "y": 0.0
+    },
+    "creationDate": "2023-05-05T10:41:14",
+    "realHero": false,
+    "hasToothpick": false,
+    "impactSpeed": 0,
+    "soundtrackName": "sd",
+    "minutesOfWaiting": 32.0,
+    "mood": "LONGING",
+    "car": {
+      "name": null
+    }
+  }
+]
